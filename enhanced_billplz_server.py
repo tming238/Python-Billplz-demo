@@ -29,7 +29,7 @@ XSIGNATURE_KEY = "9650acc45cd802f77a95dc4dc4787651e41f8fdb278fb8ddc08608b0bbe318
 BILLPLZ_BASE_URL = "https://www.billplz-sandbox.com/api"
 
 # Your ngrok URL for callbacks
-CALLBACK_BASE_URL = "https://c3365aff5c38.ngrok-free.app"
+CALLBACK_BASE_URL = "https://0db3c4c6e8ee.ngrok-free.app"
 
 # Data storage files
 DATA_FILES = {
